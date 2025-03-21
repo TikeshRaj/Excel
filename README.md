@@ -24,7 +24,7 @@ This repository contains various Excel files related to data analysis, data clea
 🔹 Contains commonly used Excel formulas such as VLOOKUP, HLOOKUP, IF, SUMIF, COUNTIF, INDEX-MATCH, and more.  
 🔹 Includes examples with explanations.
 
-### 6. XLOOKUP Excel File.xlsx  
+### 6. XLOOKUP 
 🔹 Demonstrates the usage of the XLOOKUP function in Excel.  
 🔹 Includes examples comparing VLOOKUP and XLOOKUP for better understanding.
 
